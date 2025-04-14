@@ -28,6 +28,8 @@ CMD ["python", "process_data.py"]
 ## Build the Docker image
 ```
 docker build -t python-script .
+
+#note -t adalah tag name
 ```
 
 ## Run the container
